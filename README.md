@@ -1,5 +1,21 @@
-<h1>Hi 👋, I'm snake</h1>
+<h1>Hi 👋, I'm 1Thef0x</h1>
 <p>A Backend developer from Egypt 𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣</p>
+
+---
+
+## 📈 My Chess.com Stats
+
+> 🧠 **Username:** [Hex_170](https://www.chess.com/member/Hex_170)
+
+<p align="center">
+  <img src="https://www.chess.com/badges/tactics/Hex_170" alt="Chess.com Tactics Rating" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-chess-stats.vercel.app/api?username=Hex_170&theme=blue-green" alt="Chess Stats" />
+</p>
+
+> ⚠️ إذا لم تظهر الإحصائيات، تحقق من أن اسم المستخدم صحيح أو جرب لاحقًا لأن بعض الخدمات تعتمد على API خارجية.
 
 ---
 
@@ -61,8 +77,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/1Thef0x/1Thef0x/output/snake.svg" alt="Snake animation" />
 </p>
-
-<!-- إذا لم تقم بعد بإعداد Snake animation workflow، اتبع الإرشادات من:
-     https://github.com/Platane/snk -->
 
 ![Spassky vs Fischer](spassky-vs-fischer.gif)
