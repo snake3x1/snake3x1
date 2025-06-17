@@ -78,4 +78,8 @@
   <img src="https://raw.githubusercontent.com/1Thef0x/1Thef0x/output/snake.svg" alt="Snake animation" />
 </p>
 
-![Spassky vs Fischer](spassky-vs-fischer.gif)
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/PkY1vXzCdF4AAAAC/spassky-vs-fischer.gif" alt="Spassky vs Fischer" />
+</p>
