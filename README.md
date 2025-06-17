@@ -5,7 +5,7 @@
 
 ## 📈 My Chess.com Stats
 
-> 🧠 **Username:** [Hex_170](https://www.chess.com/member/Hex_170)
+> 🧠 **Username:** [hex_170](https://www.chess.com/member/Hex_170)
 
 <p align="center">
   <img src="https://www.chess.com/badges/tactics/Hex_170" alt="Chess.com Tactics Rating" />
