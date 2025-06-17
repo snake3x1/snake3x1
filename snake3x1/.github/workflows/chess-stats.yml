@@ -1,0 +1,17 @@
+name: Chess Games & Stats Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # كل يوم منتصف الليل UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Balastrong/chess-stats-action@main
+        with:
+          CHESS_USERNAME: hex_170
